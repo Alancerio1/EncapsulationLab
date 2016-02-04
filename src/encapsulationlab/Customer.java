@@ -7,7 +7,7 @@ package encapsulationlab;
 
 /**
  *
- * @author alancerio18
+ * @author alancerio185
  */
 public class Customer {
     private String fName;
@@ -17,7 +17,7 @@ public class Customer {
     public String getfName() {
         return fName;
     }
-
+    
     public void setfName(String fName) {
         this.fName = fName;
     }
